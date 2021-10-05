@@ -1,6 +1,6 @@
 # Calendar
 
-For my first project of my CIS 163 (Computer Science I) class, I created functions for a calendar to learn the basics of Java.
+For my first project of my CIS 162 (Computer Science I) class, I created functions for a calendar to learn the basics of Java.
 
 # I learned about:
 - How to create java files
