@@ -1,4 +1,4 @@
-# Calendar
+# Calendar Logic
 
 For my first project of my CIS 162 (Computer Science I) class, I created functions for a calendar to learn the basics of Java.
 
