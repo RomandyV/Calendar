@@ -6,7 +6,7 @@ For my first project of my CIS 162 (Computer Science I) class, I created functio
 - How to create java files
 - Creating objects
 - Different variable types and how to use them
-- How to create methods (functions)
+- How to create methods
 - If statements
 - Switch Statements
 - How to create tests
